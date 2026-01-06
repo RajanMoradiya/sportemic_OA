@@ -1,0 +1,53 @@
+Student Records - Library Management System
+==========================================
+
+Student ID: 1001
+Name: Alice Johnson
+Class: 10A
+Books Issued: Python Programming, Data Structures
+
+Student ID: 1002
+Name: Bob Smith
+Class: 9B
+Books Issued: Web Development Basics
+
+Student ID: 1003
+Name: Carol Davis
+Class: 11C
+Books Issued: Machine Learning, Algorithms
+
+Book Inventory
+==============
+
+Book ID: B001
+Title: Python Programming
+Author: John Doe
+Publication: Tech Press
+Year: 2020
+
+Book ID: B002
+Title: Data Structures
+Author: Jane Smith
+Publication: Academic Books
+Year: 2019
+
+Book ID: B003
+Title: Web Development Basics
+Author: Mike Wilson
+Publication: Web Publishers
+Year: 2021
+
+Library Issues
+==============
+
+Issue ID: L001
+Student: Alice Johnson (1001)
+Book: Python Programming (B001)
+Issue Date: 2026-01-01
+Return Date: 2026-01-15
+
+Issue ID: L002
+Student: Bob Smith (1002)
+Book: Web Development Basics (B003)
+Issue Date: 2026-01-03
+Return Date: 2026-01-17
